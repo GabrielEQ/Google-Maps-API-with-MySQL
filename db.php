@@ -1,8 +1,8 @@
 <?php
-  $host = "localhost";
-  $user = "root";
-  $password = "fiap";
-  $dbName = "maps";
+  $host = "host";
+  $user = "username";
+  $password = "username";
+  $dbName = "dbname";
 
 
   $conn = mysqli_connect($host, $user, $password, $dbName);
